@@ -6,7 +6,7 @@
 **/*.mp4
 HPSv2
 **/HPSv2
-
+!assets/vader_method.png
 # VADER-ModelScope
 VADER-ModelScope/outputs/
 VADER-ModelScope/media_vis/
